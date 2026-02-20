@@ -15,7 +15,6 @@
   </tr>
 <table>
   
-  
 <br>
 
 # Abstract
@@ -34,7 +33,7 @@ Directory description
 
 - /            --> source code used to generate the analyses presented in the paper;
 - figures      --> figures used in the paper, including supplementary figures;
-- files_csv    --> CSV file containing all extracted information from the selected studies;
+- files_csv    --> contains the original and preprocessed files of the selected studies;
 - supp         --> supplementary materials referenced in the paper, such as the list of abbreviations and other supporting documents.
   
 ~~~
