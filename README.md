@@ -2,7 +2,7 @@
 
 ***
 #### **About the paper**
-> Article submitted to the journal Neuroscience, in 2025. This work presents a systematic review of computational methods for neuronal morphology classification, analyzing 35 high-quality studies (2018–2024) selected from an initial set of 840 papers to identify prevailing techniques, data representations, and evaluation strategies.
+> This paper was published in the journal Neuroscience in 2026. This work presents a systematic review of computational methods for neuronal morphology classification, analyzing 35 high-quality studies (2018–2024) selected from an initial set of 840 papers to identify prevailing techniques, data representations, and evaluation strategies.
 
 
 #### **Authors (original paper)**
@@ -21,11 +21,31 @@
 
 Advances in connectomics and the characterization of neuronal diversity have been fundamental to understanding how the brain works. Defining a taxonomy is still challenging and requires complex computational methods. In this paper, we present a systematic review of the state-of-the-art methods for neuronal morphology classification, shedding light on trends and future directions. We address three core research questions: (1) What computational methods are used to classify neuronal morphologies? (2) What kind of representation do the classification models work on? (3) How are the classification models evaluated? We applied a structured protocol including peer-reviewed studies published since 2018. We collected 840 papers from five databases, published between 2018 and 2024. We assessed risk of bias using predefined quality criteria on study design, methodology, and reporting; 35 studies met these standards and were included to extract information and consolidate the results. The results show that Artificial Neural Networks are currently the main method for classifying neurons based on morphometric features (21 papers). Representations based on microscopy images for extracting morphometric features (30) are commonly used. Accuracy (29) is the predominant evaluation measure. Our research findings contribute to the body of knowledge by providing an up-to-date perspective on neuronal classification, which can guide future research in neuroscience and related fields.
 
-#  If you use any of the resources available here, to cite this work, please use:
 
-> Paper
+# Citation
 
-** paper under review**
+If you use any of the resources available here, please cite our work:
+
+> Lobato, F., Leite, J., Jacob Jr, A., & Santana, R. (2026). **In silico neuronal morphology classification: A systematic review.** *Neuroscience*, 601, 83-103.
+> DOI: [10.1016/j.neuroscience.2026.02.044](https://www.google.com/search?q=https://doi.org/10.1016/j.neuroscience.2026.02.044).
+> 
+> 
+
+### BibTeX
+
+```bibtex
+@article{lobato2026insilico,
+  title={In silico neuronal morphology classification: A systematic review},
+  author={Lobato, F{\'a}bio and Leite, J{\'e}ssica and Jacob Jr, Antonio and Santana, Roberto},
+  journal={Neuroscience},
+  volume={601},
+  pages={83--103},
+  year={2026},
+  publisher={Elsevier},
+  doi={10.1016/j.neuroscience.2026.02.044}
+}
+
+```
 
 ~~~
 Directory description
